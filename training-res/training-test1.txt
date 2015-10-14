@@ -1,3 +1,5 @@
 GitHub Repo test 1
 
 GitHub Repo test1 (file modified on github server)
+
+After branching locally this file has been modified and should be different form the one in master

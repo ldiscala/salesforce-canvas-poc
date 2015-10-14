@@ -1,5 +1,3 @@
 GitHub Repo test 1
 
-GitHub Repo test1 
-
-Hi Jacked this file in training-res branch to test the integrity and conflict
+GitHub Repo test1 (file modified on github server)
